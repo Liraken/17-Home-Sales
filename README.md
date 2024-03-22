@@ -1,17 +1,14 @@
 # 17-Home-Sales
-![Header IMG](TBD)
+![Header IMG](DALL·E_Housing_Sale.jpg)
 
 ## File Location
 - In 'Images' you can find all images used in this project
 - In 'Refrences' you can find a single repo from ivarvani used as a refrence for this assignment
 - In 'Starter_Code' you can find the starter code
-- In 'TBD' you can find .............
-- In 'TBD' you can find .............
-- In 'TBD' you can find .............
+- In 'Refrences' you can find the one repo I used as a starting point
 
 ## Sources
-- ......................
-- ......................
+- https://github.com/ivarvani/Home_Sales
 	
 ## Instuctions
 Rename the Home_Sales_starter_code.ipynb file as Home_Sales.ipynb.
