@@ -1,5 +1,5 @@
 # 17-Home-Sales
-![Header IMG](DALL·E_Housing_Sale.jpg)
+![Header IMG](Images/DALL·E_Housing_Sale.jpg)
 
 ## File Location
 - In 'Images' you can find all images used in this project
